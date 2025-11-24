@@ -1,0 +1,5 @@
+2025-11-24 21:01:39,702 - ERROR - ERROR fetching page https://www.century21.com/real-estate/new-york-ny/LCNYNEWYORK/?page=1 -> HTTPSConnectionPool(host='www.century21.com', port=443): Max retries exceeded with url: /real-estate/new-york-ny/LCNYNEWYORK/?page=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001F209C6DBE0>, 'Connection to www.century21.com timed out. (connect timeout=10)'))
+2025-11-24 21:07:09,330 - ERROR - No cards found — selector may be wrong
+2025-11-24 21:11:20,324 - ERROR - Upload error: <Response [404]>
+2025-11-24 21:13:09,490 - INFO - Upload successful.
+2025-11-24 21:36:50,052 - INFO - Upload successful.
